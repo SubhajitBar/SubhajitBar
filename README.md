@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajitbar&label=Profile%20views&color=0e75b6&style=flat" alt="subhajitbar" /> </p>
 
-- 🔭 I’m currently working on **Land Surveyor,**
+- 🔭 I’m currently working on **INPAY - UPI Based Digital Payment App,**
 
 - 🌱 I’m currently learning **React Native, AWS, Microsoft Azure**
 
